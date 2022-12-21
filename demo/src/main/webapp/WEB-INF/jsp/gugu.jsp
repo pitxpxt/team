@@ -11,6 +11,7 @@
 
 <c:forEach var="line" items="${list}">
 	${line}<br>
+	${line}<br>
 </c:forEach>
 
 </body>
