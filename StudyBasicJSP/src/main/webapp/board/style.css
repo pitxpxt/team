@@ -1,0 +1,9 @@
+@charset "UTF-8";
+	
+	#input{
+		padding-top:1px;
+		color:white;
+		height:100px;
+		background:#633A00;
+		text-align:center;
+	}
